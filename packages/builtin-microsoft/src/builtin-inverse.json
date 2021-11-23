@@ -218,6 +218,7 @@
     "Penni": ["盆尼"],
     "Meter": ["米", "公尺", "m"],
     "Kilometer": ["千米", "公里", "km"],
+    "plusminus": ["±"],
     "Decimeter": ["分米", "公寸", "dm"],
     "Centimeter": ["釐米", "厘米", "公分", "cm"],
     "Micrometer": ["毫米", "公釐", "mm"],
